@@ -5,7 +5,7 @@ Welcome to my **Personal Portfolio Website**! This is a **responsive** and **int
 ---
 
 ## 📸 **Live Demo**  
-🔗 [View Portfolio](https://your-portfolio-link.com)  
+🔗 [View Portfolio](https://supriya-somishetty.github.io/Portfolio_Website/)  
 
 ---
 
