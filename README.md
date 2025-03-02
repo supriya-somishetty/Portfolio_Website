@@ -1,6 +1,6 @@
 # 🚀 Personal Portfolio Website  
 
-Welcome to my **Personal Portfolio Website**! This is a **responsive** and **interactive** portfolio showcasing my **skills, projects, education, and contact details**.
+Welcome to my **Personal Portfolio Website**! This is a **responsive** and **interactive** portfolio showcasing my **skills, projects, education, and experience**.
 
 ---
 
